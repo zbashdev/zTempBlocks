@@ -3,8 +3,9 @@
 
 All you have to do is specify **BLOCK:TIME** in seconds in the **config.yml** file. If you need to refresh the config, you can type **ztb reload** from within the game.
 
-[![Image](https://i.hizliresim.com/gsyg068.gif)](https://hizliresim.com/gsyg068.gif)
-<img src="https://i.hizliresim.com/gsyg068.gif" alt="Resim Yükle">
+
+![0223](https://github.com/user-attachments/assets/b20d648d-3183-4362-b223-61656182c9a4)
+
 
 📁 **Download** 
 
